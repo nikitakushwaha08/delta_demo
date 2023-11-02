@@ -1,2 +1,3 @@
 # delta_demo
-This is Deno for Git &amp; Github class 
+THIS IS DEMO FOR GIT &amp; GITHUB CLASS.
+
